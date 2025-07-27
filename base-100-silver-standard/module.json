@@ -3,7 +3,7 @@
   "esmodules":["scripts/CarthusCurrency.js"],
   "title": "Base 100 silver standard",
   "version": "1.0.1",
-  "manifest": "https://github.com/AustinGays/Base-100-Silver-Standard/blob/dad96b98a728e4b2e527ef4f83795640a8e56575/base-100-silver-standard/module.json",
+  "manifest": "https://raw.githubusercontent.com/AustinGays/Base-100-Silver-Standard/refs/heads/main/base-100-silver-standard/module.json",
   "download": "https://github.com/AustinGays/Base-100-Silver-Standard/releases/download/1.0.1/base-100-silver-standard.zip",
   "compatibility": {
     "minimum": "12",
