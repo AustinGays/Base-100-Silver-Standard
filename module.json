@@ -1,0 +1,23 @@
+{
+  "id": "dww-scene-phaser",
+  "title": "Domille's wondrous works - Scene Phaser",
+  "description": "Domille's wondrous works - Scene Phaser",
+  "version": "1.4.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  },
+  "esmodules": [
+    "modules/dww-scene-phaser.js"
+  ],
+  "socket": true,
+  "url": "https://www.patreon.com/dww",
+  "manifest": "https://www.dropbox.com/scl/fi/swl8extwbhjxrnz5kka72/module.json?rlkey=ft9rapysdnfr7l3yg1ban1m7m&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/anwtlel731db0dsld1ywl/dww-scene-phaser.zip?rlkey=uy8aopmxlf0d9njl0lz0ujs70&dl=1",
+  "authors": [
+    {
+      "name": "Domille, LeRatierBretonnien",
+      "flags": {}
+    }
+  ]
+}
